@@ -1,1 +1,1 @@
-web: heroku-php-apache2 app:login
+web: heroku-php-apache2 app:login.html
