@@ -5,6 +5,6 @@ if (screen.width <= 699) {
     document.location = "mobile.html";
 }
 else {
-    document.location = "login.html";
+    document.location = "home.html";
 }
 </script> 
